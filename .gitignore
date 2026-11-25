@@ -1,0 +1,21 @@
+# Cartelle di Build
+build/
+cmake-build-*/
+out/
+
+# File compilati e binari
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# IDE e Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
